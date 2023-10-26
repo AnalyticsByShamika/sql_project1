@@ -1,6 +1,5 @@
 
 
-
 SELECT date, state,
     SUM (previous_day_admission_adult_covid_confirmed) AS total_admissions
 FROM [COVID-19_Reported_Patient]
