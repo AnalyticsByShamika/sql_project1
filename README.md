@@ -11,4 +11,3 @@ What is the ICU bed occupancy and availability for COVID-19 patients, and what i
 
 What is the average of inpatient bed utilization and ICU bed utilization across states regardless of the date?
 
-
